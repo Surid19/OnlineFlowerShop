@@ -1,0 +1,38 @@
+/* common shared items */
+.button-primary{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700px;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
+body{
+    font-family: Lato;
+    background-color: #E55473;
+}
+    
+
+
+/* header related style */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    color: rgba(229, 84, 115, 0.1);
+}
+
+/* banner related styles */
+.banner-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 708px;
+}
